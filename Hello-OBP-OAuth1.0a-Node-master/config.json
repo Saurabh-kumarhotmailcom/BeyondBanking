@@ -1,6 +1,6 @@
 {
     "apiHost": "https://beyondbanking.openbankproject.com/",
-    "consumerKey": "o4vkasv20vbixxwkphuf1wlkqx1t14jjgt0ppeo2",
-    "consumerSecret": "undho4a1zr155scdxzeotwkxugavky152wp33f0k",
+    "consumerKey": "5fyrkvxq0nahxljhrc5sngjwv2eyhrw4antuiqmb",
+    "consumerSecret": "kjx3gbge22gsevbfhqi0jlit3pjimnano1kqkt0a",
     "redirectUrl": "http://ec2-35-178-106-172.eu-west-2.compute.amazonaws.com:8085/callback"
 }
